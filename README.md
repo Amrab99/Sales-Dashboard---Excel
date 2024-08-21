@@ -3,12 +3,17 @@ This dashboard provides a comprehensive overview of sales performance, customer 
 
 ![Dashboard Screenshot](images/sales%20dashboard.jpg)
 
-Key Metrics and Visualizations
+* Key Metrics and Visualizations
 Total Sales: A numeric value displays the total sales amount.
+
 Returns: A numeric value shows the total returns.
+
 Net Sales: A numeric value represents the net sales after deducting returns.
+
 Discounts: A numeric value indicates the total discounts applied.
+
 COGS: A numeric value represents the cost of goods sold.
+
 Total Orders: A numeric value shows the total number of orders.
 Total Customers: A numeric value indicates the total number of customers.
 Total Sales by Category: A bar chart compares sales across different product categories.
