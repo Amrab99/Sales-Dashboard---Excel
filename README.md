@@ -1,7 +1,7 @@
 Dashboard Overview
 This dashboard provides a comprehensive overview of sales performance, customer behavior, and product trends. It offers valuable insights for businesses to analyze sales data, identify top-performing products and regions, and track customer satisfaction.
 
-![Dashboard Screenshot](images/sales%dashboard.jpg)
+![Dashboard Screenshot](images/sales dashboard.jpg)
 
 Key Metrics and Visualizations
 Total Sales: A numeric value displays the total sales amount.
